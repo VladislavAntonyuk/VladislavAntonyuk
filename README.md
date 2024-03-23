@@ -2,7 +2,7 @@
 
 I am a Senior software engineer at DataArt, Microsoft MVP, and maintainer of .NET MAUI Community Toolkit.
 
-📫 You can reach me at https://vladislavantonyuk.azurewebsites.net 
+📫 You can reach me at https://vladislavantonyuk.github.io
 
 <a href="https://stand-with-ukraine.pp.ua"><img src="https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7"></a>
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAqyXWpRInCFTEgPCzxSKrA?color=%23FF0000&label=Subscribe%20on%20YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/VladislavAntonyuk)
